@@ -36,7 +36,8 @@ npx drizzle-kit generate:sql
 npx drizzle-kit push
 ```
 
-5. 🟢 Start the server:
+5. 🟢 Start the server:![Todo Api](https://github.com/user-attachments/assets/7edd036c-6d2e-45e1-aa44-aa6eb6934856)
+
 ```bash
 npm run start:dev
 ```
