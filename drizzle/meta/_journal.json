@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1742320223632,
+      "tag": "0000_mysterious_proemial_gods",
+      "breakpoints": true
+    }
+  ]
+}
